@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="textView_billAmountHint">0</string>
+    <string name="total">Total</string>
+    <string name="tip">Tip</string>
+    <string name="progress">0</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="tip_total">0</string>
+    <string name="total_amount">0</string>
+    <string name="amount">Amount</string>
+    <string name="num_people_splitting">Persons Splitting Bill</string>
+    <string name="text_per_person_total">Per Person Total:</string>
+    <string-array name="numPeople">
+        <item> 1</item>
+        <item> 2</item>
+        <item> 3</item>
+        <item> 4</item>
+        <item> 5</item>
+        <item> 6</item>
+        <item> 7</item>
+        <item> 8</item>
+        <item> 9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+</resources>
